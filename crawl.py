@@ -102,7 +102,7 @@ def main():
     elif args.command == "groups":
         results = get_groups(args.apikey)
         for result in results:
-            print(",".join(result))
+            print(",".join([str(t) for t in result.values()]))
 
 
 if __name__ == "__main__":
