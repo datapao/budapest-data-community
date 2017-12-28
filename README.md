@@ -1,7 +1,7 @@
 # Budapest Data Community Overview
 
 ## Notebooks
-The main notebook is the [Budapest Data Meetups.ipynb](Budapest Data Meetups.ipynb).
+The main notebook is the [Budapest Data Meetups.ipynb](Budapest%20Data%20Meetups.ipynb).<br>
 There is another notebook ([Budapest-Meetup-Members-Graph.ipynb](Budapest-Meetup-Members-Graph.ipynb)) that creates the graph data.
 Feel free to add your own notebooks.
 ## Crawler
