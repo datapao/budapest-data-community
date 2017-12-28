@@ -1,5 +1,9 @@
 # Budapest Data Community Overview
 
+## Notebooks
+The main notebook is the [Budapest Data Meetups.ipynb](Budapest Data Meetups.ipynb).
+There is another notebook ([Budapest-Meetup-Members-Graph.ipynb](Budapest-Meetup-Members-Graph.ipynb)) that creates the graph data.
+Feel free to add your own notebooks.
 ## Crawler
 The crawler is written in python. To install the dependencies run pip:
 ```bash
